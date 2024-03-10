@@ -1,0 +1,21 @@
+{
+  "name": "badgesbaker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crc": "^4.3.2",
+    "fs": "^0.0.1-security",
+    "png-chunk-text": "^1.0.0",
+    "png-chunks-encode": "^1.0.0",
+    "png-chunks-extract": "^1.0.0",
+    "png-metadata": "^1.0.2",
+    "pngjs": "^7.0.0"
+  }
+}
